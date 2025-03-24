@@ -11,3 +11,5 @@ The fan cools down the temperature as soon as it falls down the threshold value 
 The IR speed sensor senses the speed of a dc motor and when it crosses a threshold value its speed is control externally using a "555" timer IC based PWM controller
 
 All the data and messages are shown on an 16x2 lcd connectd through an I2C module.
+
+shbuyybdhcdnuysuysbd
