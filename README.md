@@ -12,4 +12,3 @@ The IR speed sensor senses the speed of a dc motor and when it crosses a thresho
 
 All the data and messages are shown on an 16x2 lcd connectd through an I2C module.
 
-shbuyybdhcdnuysuysbd
